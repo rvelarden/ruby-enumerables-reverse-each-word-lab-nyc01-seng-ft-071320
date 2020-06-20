@@ -5,5 +5,5 @@ def reverse_each_word (sentence)
   new_array=[]
   
   new_array<< sentence_array.each {|element| element.reverse!}.join(" ")
-  
+end   
 end
