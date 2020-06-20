@@ -1,4 +1,4 @@
-def  reverse_each_word(s)
+def  reverse_each_word(string)
   
 string.each do |string|
   if string.collect 
